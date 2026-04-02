@@ -24,7 +24,3 @@ python research/scripts/fetch_youtube_transcript.py 9wuHUDm4-WE > research/youtu
 ## Sourced summary (orientation)
 
 Public descriptions frame this as a **step-by-step entry** to AI-influenced SEO in 2026: keyword/topic modernization, owning topics systematically, and **search fragmentation** across surfaces. Use the `.txt` transcript for the full argument and examples.
-
-## Optional related video (same author)
-
-- *Most AI SEO Advice Is Wrong. Here’s Why* — https://www.youtube.com/watch?v=xyqFSy7k9HU — useful critique layer when evaluating AI-generated SEO content advice.
