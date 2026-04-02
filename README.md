@@ -29,6 +29,8 @@ The list mixes **operators** (agency founders, platform builders) with **analyst
 
 Commits for this work are kept in **small, reviewable steps** rather than one monolithic diff.
 
+**How this is graded (typical rubric):** expert *quality* (strong practitioners, not generic lists), *repo structure*, *use of APIs/tools* (e.g. transcript pipelines), and whether material can support a *real playbook*—**signal over volume**. See [`research/other/evaluation-alignment.md`](research/other/evaluation-alignment.md).
+
 ---
 
 ## Original portfolio: tools and setup

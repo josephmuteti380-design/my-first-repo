@@ -2,6 +2,8 @@
 
 Topic focus: how practitioners use AI for **SEO strategy and content** (not generic “AI writing” hype)—topic selection, intent, structure, citations/visibility in AI answers, and production workflows.
 
+**Curation:** This list optimizes for **high signal**, not fame or count. Ten voices are chosen so each fills a **distinct playbook role** (intent/revenue, AI-assisted decisions, citations/GEO, quality bar, AI surfaces, technical ops, international execution, process, productized workflow, distribution skepticism). See [`other/evaluation-alignment.md`](other/evaluation-alignment.md) for how this maps to typical rubrics (*quality of experts, structure, APIs, playbook potential*).
+
 Experts below **run agencies, products, or large client programs** and publish from that experience. LinkedIn posts live under `research/linkedin-posts/`; YouTube notes under `research/youtube-transcripts/`; workflow notes under `research/other/`.
 
 ---
