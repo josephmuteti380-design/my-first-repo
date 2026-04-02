@@ -19,8 +19,3 @@ python research/scripts/fetch_youtube_transcript.py 9wuHUDm4-WE > research/youtu
 
 **Artifact:** [`nathan-gotch-9wuHUDm4-WE-transcript.txt`](nathan-gotch-9wuHUDm4-WE-transcript.txt)
 
-**Fetched:** 2026-04-02
-
-## Sourced summary (orientation)
-
-Public descriptions frame this as a **step-by-step entry** to AI-influenced SEO in 2026: keyword/topic modernization, owning topics systematically, and **search fragmentation** across surfaces. Use the `.txt` transcript for the full argument and examples.

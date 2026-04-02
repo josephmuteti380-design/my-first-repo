@@ -19,12 +19,4 @@ python research/scripts/fetch_youtube_transcript.py NCk5sb0bLIo > research/youtu
 
 **Artifact:** plain-text lines (auto captions), one segment per line — [`wil-reynolds-NCk5sb0bLIo-transcript.txt`](wil-reynolds-NCk5sb0bLIo-transcript.txt)
 
-**Fetched:** 2026-04-02
 
-## Sourced talk summary (orientation)
-
-Use this **after** skimming the transcript file if you want a quick headline before reading the full dialogue:
-
-- Contrasts **“search optimizer” identity** with **helping people find answers** across channels.  
-- Social / authentic-audience discovery vs. over-relying on **AI-only growth** narratives in some verticals.  
-- **Early-warning metrics** by vertical rather than assuming uniform AI disruption speed.
