@@ -1,36 +1,71 @@
 Portfolio Project: Cursor IDE Setup and GitHub Repository
 
- Tools Installed
-- Cursor IDE: Installed from https://cursor.com/. This is the main development environment I used for this project.
--Claude Code Add-on: I Added it via Cursor Extensions → I searched for "Claude Code" and logged in.
--Codex Add-on: Added via Cursor Extensions → searched for "Codex" and logged in.
--GitHub: I Created a public repository to host this project.
+## AI-powered SEO content production — research track
 
- I COMPLETED THE FOLLOWING STEPS
-1. Installing  Cursor IDE and ensuring that it runs correctly on my computer.
-2. Adding and logging into the "Claude Code" and "Codex" extensions.
-3. Creating a "public GitHub repository" for the project.
-4. Opening the GitHub repository in Cursor IDE.
-5. Creating this README.md file and describing the process.
-6. Committing and pusheing the repository to GitHub.
-7. Verifieing the repository to ensuere that it is publicly accessible and contains this README.
+This repository now includes a structured **research corpus** on the topic *AI-powered SEO content production*: practitioners who run agencies, products, or large client programs and publish from that experience (not armchair commentary).
 
- Issues Encountered and Solutions
-- Issue:It was Difficult to locate the “Clone Repository” button in Cursor IDE.
-  - Solution: I Used the Git URL of the GitHub repository directly in Cursor IDE’s "Open Repository" option.
-  
-- Issue: I was not sure onw hich folder to select when opening the repository locally.
-  - Solution: I Selected the folder created during cloning and ensured it contained the git files.
+### What was collected
 
-- Issue: First-time usage of extensions like Claude Code and Codex.
-  - Solution: By Following online tutorials and documentation I manged to install, activate, and log in successfully.
+| Location | Contents |
+|----------|-----------|
+| [`research/sources.md`](research/sources.md) | **Ten experts** with profile/site links, primary content links, collection dates, and short annotations tied to AI + SEO content workflows. |
+| [`research/linkedin-posts/`](research/linkedin-posts/) | Captured **LinkedIn posts** (manual export: URL + full text), filed by author and date. |
+| [`research/youtube-transcripts/`](research/youtube-transcripts/) | **YouTube videos** (metadata, talk summary, and instructions to pull full transcripts via Supadata or `youtube-transcript-api` when Python/APIs are available). |
+| [`research/other/`](research/other/) | **Collection methodology**, podcast/channel pointers, and space for episode notes. |
 
- Outcome
-- I Successfully installed all the required tools.
-- I maneged to Create and open a public GitHub repository in Cursor IDE.
--  I also Learned how to integrate AI-assisted coding tools and committing changes to GitHub.
-- This repository demonstrates my ability to self-learn, troubleshoot, and complete technical setup independently.
+### Why these experts
 
- Notes
-- This portfolio project is intended to showcase my research, AI-tool usage, and problem-solving skills.
-- All steps were completed independently with minimal guidance, reflecting my ability to adapt and learn quickly.
+The list mixes **operators** (agency founders, platform builders) with **analysts who still touch live programs** (large-site SEO, quality updates, generative search). Together they cover:
+
+- Using AI for **decisions** (topics, intent, structure) vs. spammy volume  
+- **Citations and visibility** in AI-mediated answers (GEO / AI Overviews context)  
+- **Quality bars** (helpful content, E-E-A-T) when drafts are AI-assisted  
+- **Product and engineering** views (tools that shape how SEO content is produced)
+
+### Tooling notes
+
+- **LinkedIn:** Captured manually for compliance and stability; filenames follow `author-slug-topic-YYYY-MM-DD.md`.  
+- **YouTube transcripts:** Stub files document video IDs and URLs; paste API transcripts into the same markdown when you run Supadata or a local transcript script (see [`research/other/collection-methods.md`](research/other/collection-methods.md)).  
+
+Commits for this work are kept in **small, reviewable steps** rather than one monolithic diff.
+
+---
+
+## Original portfolio: tools and setup
+
+### Tools installed
+
+- **Cursor IDE:** https://cursor.com/ — main development environment.  
+- **Claude Code add-on:** Cursor Extensions → search “Claude Code” → sign in.  
+- **Codex add-on:** Cursor Extensions → search “Codex” → sign in.  
+- **GitHub:** Public repository hosting this project.
+
+### Completed steps
+
+1. Installing Cursor IDE and verifying it runs correctly.  
+2. Adding and signing into the Claude Code and Codex extensions.  
+3. Creating a public GitHub repository for the project.  
+4. Opening the GitHub repository in Cursor IDE.  
+5. Creating this README and describing the process.  
+6. Committing and pushing the repository to GitHub.  
+7. Verifying the repository is public and contains this README.
+
+### Issues encountered and solutions
+
+- **Issue:** Difficult to find the “Clone Repository” button in Cursor IDE.  
+  - **Solution:** Used the Git URL of the GitHub repository directly in Cursor’s “Open Repository” flow.  
+- **Issue:** Unsure which local folder to open after clone.  
+  - **Solution:** Opened the folder that contains the `.git` directory.  
+- **Issue:** First-time setup of Claude Code and Codex.  
+  - **Solution:** Followed online tutorials and product docs to install, activate, and sign in.
+
+### Outcome
+
+- Installed and integrated AI-assisted coding tools.  
+- Created and synced a public GitHub repository from Cursor.  
+- Demonstrated self-directed learning, troubleshooting, and research organization (including the SEO research track above).
+
+### Notes
+
+- This portfolio project showcases research, AI-tool usage, and problem-solving.  
+- Steps were completed independently with minimal guidance.
