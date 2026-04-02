@@ -35,12 +35,12 @@ The ten entries are **not** a keyword-stuffed influencer list. They are chosen t
 
 - `research/sources.md` - single index of experts with links, dates, annotations.  
 - `research/linkedin-posts/` - primary sources by author (manual capture, cited URLs).  
-- `research/youtube-transcripts/` — per-video **`.md` index** + **`.txt` transcript** (fetched via `youtube-transcript-api`).  
-- `research/other/` — methodology, podcast pointers, **this rubric**.
+- `research/youtube-transcripts/` - per-video **`.md` index** + **`.txt` transcript** (fetched via `youtube-transcript-api`).  
+- `research/other/` - methodology, podcast pointers, **this rubric**.
 
 ### 3. APIs and technical tools
 
-- **LinkedIn:** No scraping pipeline—**manual export** (stable, ToS-safe, auditable).  
+- **LinkedIn:** No scraping pipeline - **manual export** (stable, ToS-safe, auditable).  
 - **YouTube:** Caption pull via **`youtube-transcript-api`** (script + pinned deps under `research/scripts/`); transcript text committed as **`.txt`** next to each video’s **`.md`** index. Optional: Supadata.
 
 ### 4. Playbook strength
