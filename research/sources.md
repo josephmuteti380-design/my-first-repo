@@ -1,6 +1,6 @@
 # Research sources: AI-powered SEO content production
 
-Topic focus: how practitioners use AI for **SEO strategy and content** (not generic “AI writing” hype)—topic selection, intent, structure, citations/visibility in AI answers, and production workflows.
+Topic focus: how practitioners use AI for **SEO strategy and content** (not generic “AI writing” hype)-topic selection, intent, structure, citations/visibility in AI answers, and production workflows.
 
 **Curation:** High-signal list chosen for **distinct playbook roles** (intent/revenue, decisions, citations/GEO, quality bar, distribution, and tooling). See [`other/evaluation-alignment.md`](other/evaluation-alignment.md) for rubric mapping.
 
@@ -24,7 +24,7 @@ Experts below **run agencies, products, or large client programs**. Captures are
 - **Link:** https://lnkd.in/dCFvMYgs (newsletter edition referenced in post)  
 - **Profile:** Confirm via the author on the shared post or SearchCraft byline (several unrelated “Omer Riaz” profiles exist on LinkedIn).  
 - **Date collected:** 2026-04-01  
-- **Annotation:** Directly addresses using AI for **topic selection, keyword intelligence, intent mapping, and structure**—core to AI-powered SEO content production.
+- **Annotation:** Directly addresses using AI for **topic selection, keyword intelligence, intent mapping, and structure**-core to AI-powered SEO content production.
 
 ## 3. Anna York
 
@@ -33,17 +33,17 @@ Experts below **run agencies, products, or large client programs**. Captures are
 - **Link:** https://www.linkedin.com/posts/anna-york-seo_newjob-activity-7445066066231468032-j3dr  
 - **Profile:** https://www.linkedin.com/in/anna-york-seo/  
 - **Date collected:** 2026-04-01  
-- **Annotation:** Connects **rankings to being cited in AI answers**; stresses clarity and structure—key requirements for content that performs in both classic SERPs and LLM-driven surfaces.
+- **Annotation:** Connects **rankings to being cited in AI answers**; stresses clarity and structure-key requirements for content that performs in both classic SERPs and LLM-driven surfaces.
 
 ## 4. Wil Reynolds
 
 - **Role:** Founder & CEO, Seer Interactive; leads a large team on SEO, PPC, and measurement.  
 - **Platform:** YouTube (talk hosted on iPullRank channel) + LinkedIn.  
-- **Video:** https://www.youtube.com/watch?v=NCk5sb0bLIo — *The "Other" AI That is Hurting Your Organic Traffic* (SEO Week 2025).  
-- **Transcript (API):** [`youtube-transcripts/wil-reynolds-NCk5sb0bLIo-transcript.txt`](youtube-transcripts/wil-reynolds-NCk5sb0bLIo-transcript.txt) — fetched with `youtube-transcript-api`; index [`wil-reynolds-other-ai-seo-week-2025-NCk5sb0bLIo.md`](youtube-transcripts/wil-reynolds-other-ai-seo-week-2025-NCk5sb0bLIo.md).  
+- **Video:** https://www.youtube.com/watch?v=NCk5sb0bLIo - *The "Other" AI That is Hurting Your Organic Traffic* (SEO Week 2025).  
+- **Transcript (API):** [`youtube-transcripts/wil-reynolds-NCk5sb0bLIo-transcript.txt`](youtube-transcripts/wil-reynolds-NCk5sb0bLIo-transcript.txt) - fetched with `youtube-transcript-api`; index [`wil-reynolds-other-ai-seo-week-2025-NCk5sb0bLIo.md`](youtube-transcripts/wil-reynolds-other-ai-seo-week-2025-NCk5sb0bLIo.md).  
 - **Profile:** https://www.linkedin.com/in/wilreynolds/  
 - **Date collected:** 2026-04-02  
-- **Annotation:** Practitioner perspective on **how “authentic” audience signals and multi-channel discovery** interact with AI-mediated search—useful for calibrating how much to bet on AI-generated content volume vs. distribution and trust.
+- **Annotation:** Practitioner perspective on **how “authentic” audience signals and multi-channel discovery** interact with AI-mediated search-useful for calibrating how much to bet on AI-generated content volume vs. distribution and trust.
 
 ## 5. Marie Haynes
 
@@ -61,7 +61,7 @@ Experts below **run agencies, products, or large client programs**. Captures are
 - **Profile:** https://www.linkedin.com/in/lily-ray-44755615/  
 - **Author hub (example):** https://amsive.com/insights/author/lily-ray  
 - **Date collected:** 2026-04-02  
-- **Annotation:** Evidence-led takes on **AI search surfaces (SGE/AI Overviews) and publisher SEO**—informs what “good” looks like when machines summarize your content.
+- **Annotation:** Evidence-led takes on **AI search surfaces (SGE/AI Overviews) and publisher SEO**-informs what “good” looks like when machines summarize your content.
 
 ## 7. Michael King (Mike King)
 
@@ -70,7 +70,7 @@ Experts below **run agencies, products, or large client programs**. Captures are
 - **Channel:** https://www.youtube.com/@iPullRank  
 - **Profile:** https://www.linkedin.com/in/michaelkingphilly/  
 - **Date collected:** 2026-04-02  
-- **Annotation:** Bridges **LLMs, information retrieval, and SEO operations**—aligned with building AI-powered content systems (not one-off articles).
+- **Annotation:** Bridges **LLMs, information retrieval, and SEO operations**-aligned with building AI-powered content systems (not one-off articles).
 
 ## 8. Aleyda Solís
 
@@ -85,8 +85,8 @@ Experts below **run agencies, products, or large client programs**. Captures are
 
 - **Role:** Co-founder & CEO, Rankability; trains agencies; publishes hands-on SEO on YouTube.  
 - **Platform:** YouTube + LinkedIn.  
-- **Video (captured in repo):** https://www.youtube.com/watch?v=9wuHUDm4-WE — *AI SEO in 2026: Start Here*.  
-- **Transcript (API):** [`youtube-transcripts/nathan-gotch-9wuHUDm4-WE-transcript.txt`](youtube-transcripts/nathan-gotch-9wuHUDm4-WE-transcript.txt) — index [`nathan-gotch-ai-seo-2026-start-here-9wuHUDm4-WE.md`](youtube-transcripts/nathan-gotch-ai-seo-2026-start-here-9wuHUDm4-WE.md).  
+- **Video (captured in repo):** https://www.youtube.com/watch?v=9wuHUDm4-WE - *AI SEO in 2026: Start Here*.  
+- **Transcript (API):** [`youtube-transcripts/nathan-gotch-9wuHUDm4-WE-transcript.txt`](youtube-transcripts/nathan-gotch-9wuHUDm4-WE-transcript.txt) - index [`nathan-gotch-ai-seo-2026-start-here-9wuHUDm4-WE.md`](youtube-transcripts/nathan-gotch-ai-seo-2026-start-here-9wuHUDm4-WE.md).  
 - **Profile:** https://www.linkedin.com/in/nathangotch/  
 - **Channel:** https://www.youtube.com/@GotchSEO  
 - **Date collected:** 2026-04-02  
@@ -100,6 +100,9 @@ Experts below **run agencies, products, or large client programs**. Captures are
 - **Example session:** https://www.clearscope.io/webinars/whats-going-on-with-seo-with-bernard-huang  
 - **Date collected:** 2026-04-02  
 - **Annotation:** **Product builder** perspective on AI in the content lifecycle—pairs well with agency-operator voices (above) when designing AI-powered SEO content standards.
+
+**Core Insight:** SEO success comes from aligning content with buyer intent, not just traffic.
+
 
 
 
