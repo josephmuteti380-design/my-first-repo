@@ -16,7 +16,10 @@ Wil Reynolds discusses how AI is changing organic traffic by altering how users 
 - Organic traffic is increasingly influenced by **audience trust and relationships**, not just keywords  
 - Distribution channels (social, communities, direct audiences) are becoming critical  
 - SEO strategies must evolve beyond rankings to include **audience-building and engagement**  
-- AI content alone is not enough - human connection still drives attention and trust  
+- AI content alone is not enough - human connection still drives attention and trust 
+
+**Why This Source is Valuable:**
+Wil Reynolds provides a real-world agency perspective on how AI is reshaping traffic and discovery. His emphasis on audience and distribution offers a critical counterpoint to purely AI-driven content strategies.
 
 ## Full transcript (tooling)
 
