@@ -101,8 +101,5 @@ Experts below **run agencies, products, or large client programs**. Captures are
 - **Date collected:** 2026-04-02  
 - **Annotation:** **Product builder** perspective on AI in the content lifecycle—pairs well with agency-operator voices (above) when designing AI-powered SEO content standards.
 
----
 
-## How to extend this list
 
-- Add a new expert row (link + date + one-line why), then mirror captures under the matching folder with consistent filenames: `author-slug-topic-YYYY-MM-DD.md`.
