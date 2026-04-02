@@ -10,7 +10,7 @@ This repository now includes a structured **research corpus** on the topic *AI-p
 |----------|-----------|
 | [`research/sources.md`](research/sources.md) | **Ten experts** with profile/site links, primary content links, collection dates, and short annotations tied to AI + SEO content workflows. |
 | [`research/linkedin-posts/`](research/linkedin-posts/) | Captured **LinkedIn posts** (manual export: URL + full text), filed by author and date. |
-| [`research/youtube-transcripts/`](research/youtube-transcripts/) | **YouTube videos** (metadata, talk summary, and instructions to pull full transcripts via Supadata or `youtube-transcript-api` when Python/APIs are available). |
+| [`research/youtube-transcripts/`](research/youtube-transcripts/) | **YouTube videos** — per-video `.md` index plus **`.txt` transcripts** fetched with Python + [`youtube-transcript-api`](https://pypi.org/project/youtube-transcript-api/) (see [`research/scripts/`](research/scripts/)). |
 | [`research/other/`](research/other/) | **Collection methodology**, podcast/channel pointers, and space for episode notes. |
 
 ### Why these experts
@@ -25,7 +25,7 @@ The list mixes **operators** (agency founders, platform builders) with **analyst
 ### Tooling notes
 
 - **LinkedIn:** Captured manually for compliance and stability; filenames follow `author-slug-topic-YYYY-MM-DD.md`.  
-- **YouTube transcripts:** Stub files document video IDs and URLs; paste API transcripts into the same markdown when you run Supadata or a local transcript script (see [`research/other/collection-methods.md`](research/other/collection-methods.md)).  
+- **YouTube transcripts:** Captions pulled programmatically with **`youtube-transcript-api`** (script + `requirements.txt` under [`research/scripts/`](research/scripts/)); committed `.txt` artifacts live next to each video index. Supadata remains a valid alternative (see [`research/other/collection-methods.md`](research/other/collection-methods.md)).  
 
 Commits for this work are kept in **small, reviewable steps** rather than one monolithic diff.
 

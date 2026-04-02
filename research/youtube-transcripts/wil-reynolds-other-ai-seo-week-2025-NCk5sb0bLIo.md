@@ -7,22 +7,24 @@
 - **Collected:** 2026-04-02  
 - **Topic fit:** AI-powered SEO content production — contrasts AI-mediated discovery with **audience-led, human-connection distribution**; useful for strategy when scaling content with AI.
 
-## Transcript status
+## Full transcript (tooling)
 
-A **full timed transcript** was not exported in this environment (no Python / `youtube-transcript-api` or Supadata CLI available on the machine used for this repo update).
+**Method:** Python 3.12 + [`youtube-transcript-api`](https://pypi.org/project/youtube-transcript-api/) v1.2.4 (no API key; pulls captions YouTube exposes for the video).
 
-**Recommended fetch options:**
+**Script:** [`../scripts/fetch_youtube_transcript.py`](../scripts/fetch_youtube_transcript.py)
 
-1. **Supadata** (or similar API) — paste the video URL and store the returned transcript here.  
-2. **Python:** `pip install youtube-transcript-api` then fetch by video ID (respect YouTube ToS and rate limits).  
-3. **Manual:** YouTube → Show transcript → copy segments into a new section below.
+```text
+python research/scripts/fetch_youtube_transcript.py NCk5sb0bLIo > research/youtube-transcripts/wil-reynolds-NCk5sb0bLIo-transcript.txt
+```
 
-## Sourced talk summary (not a verbatim transcript)
+**Artifact:** plain-text lines (auto captions), one segment per line — [`wil-reynolds-NCk5sb0bLIo-transcript.txt`](wil-reynolds-NCk5sb0bLIo-transcript.txt)
 
-The following is a **brief factual summary** from public descriptions of this SEO Week 2025 session (use as orientation until a full transcript is pasted above):
+**Fetched:** 2026-04-02
 
-- Discusses how **social and authentic-audience discovery** can outperform over-reliance on AI-only growth narratives in some contexts.  
-- Includes **concrete scaling examples** (e.g. large increases in social-driven visits over a short period, as cited in session promos).  
-- Argues for **early-warning metrics** by vertical rather than assuming all industries move at the same speed toward AI-dominated discovery.
+## Sourced talk summary (orientation)
 
-Replace or supplement this section once you attach an API-derived or official transcript.
+Use this **after** skimming the transcript file if you want a quick headline before reading the full dialogue:
+
+- Contrasts **“search optimizer” identity** with **helping people find answers** across channels.  
+- Social / authentic-audience discovery vs. over-relying on **AI-only growth** narratives in some verticals.  
+- **Early-warning metrics** by vertical rather than assuming uniform AI disruption speed.

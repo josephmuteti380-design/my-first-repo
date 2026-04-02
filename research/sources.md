@@ -40,6 +40,7 @@ Experts below **run agencies, products, or large client programs** and publish f
 - **Role:** Founder & CEO, Seer Interactive; leads a large team on SEO, PPC, and measurement.  
 - **Platform:** YouTube (talk hosted on iPullRank channel) + LinkedIn.  
 - **Video:** https://www.youtube.com/watch?v=NCk5sb0bLIo — *The "Other" AI That is Hurting Your Organic Traffic* (SEO Week 2025).  
+- **Transcript (API):** [`youtube-transcripts/wil-reynolds-NCk5sb0bLIo-transcript.txt`](youtube-transcripts/wil-reynolds-NCk5sb0bLIo-transcript.txt) — fetched with `youtube-transcript-api`; index [`wil-reynolds-other-ai-seo-week-2025-NCk5sb0bLIo.md`](youtube-transcripts/wil-reynolds-other-ai-seo-week-2025-NCk5sb0bLIo.md).  
 - **Profile:** https://www.linkedin.com/in/wilreynolds/  
 - **Date collected:** 2026-04-02  
 - **Annotation:** Practitioner perspective on **how “authentic” audience signals and multi-channel discovery** interact with AI-mediated search—useful for calibrating how much to bet on AI-generated content volume vs. distribution and trust.
@@ -85,6 +86,7 @@ Experts below **run agencies, products, or large client programs** and publish f
 - **Role:** Co-founder & CEO, Rankability; trains agencies; publishes hands-on SEO on YouTube.  
 - **Platform:** YouTube + LinkedIn.  
 - **Video (captured in repo):** https://www.youtube.com/watch?v=9wuHUDm4-WE — *AI SEO in 2026: Start Here*.  
+- **Transcript (API):** [`youtube-transcripts/nathan-gotch-9wuHUDm4-WE-transcript.txt`](youtube-transcripts/nathan-gotch-9wuHUDm4-WE-transcript.txt) — index [`nathan-gotch-ai-seo-2026-start-here-9wuHUDm4-WE.md`](youtube-transcripts/nathan-gotch-ai-seo-2026-start-here-9wuHUDm4-WE.md).  
 - **Profile:** https://www.linkedin.com/in/nathangotch/  
 - **Channel:** https://www.youtube.com/@GotchSEO  
 - **Date collected:** 2026-04-02  
