@@ -102,8 +102,3 @@ Experts below **run agencies, products, or large client programs**. Captures are
 - **Annotation:** **Product builder** perspective on AI in the content lifecycle-pairs well with agency-operator voices (above) when designing AI-powered SEO content standards.
 
 **Core Insight:** SEO success comes from aligning content with buyer intent, not just traffic.
-
-
-
-
-comit and push again
