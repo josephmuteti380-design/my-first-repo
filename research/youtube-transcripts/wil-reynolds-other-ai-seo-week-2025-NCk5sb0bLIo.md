@@ -28,9 +28,10 @@ Wil Reynolds provides a real-world agency perspective on how AI is reshaping tra
 **Script:** [`../scripts/fetch_youtube_transcript.py`](../scripts/fetch_youtube_transcript.py)
 
 ```text
-python research/scripts/fetch_youtube_transcript.py NCk5sb0bLIo > research/youtube-transcripts/wil-reynolds-NCk5sb0bLIo-transcript.txt
+python research/scripts/fetch_youtube_transcript.py NCk5sb0bLIo > research/youtube-transcripts/wil-reynolds-NCk5sb0bL
+Io-transcript.txt
 ```
 
-**Artifact:** plain-text lines (auto captions), one segment per line — [`wil-reynolds-NCk5sb0bLIo-transcript.txt`](wil-reynolds-NCk5sb0bLIo-transcript.txt)
+**Artifact:** plain-text lines (auto captions), one segment per line - [`wil-reynolds-NCk5sb0bLIo-transcript.txt`](wil-reynolds-NCk5sb0bLIo-transcript.txt)
 
 

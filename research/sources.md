@@ -99,10 +99,11 @@ Experts below **run agencies, products, or large client programs**. Captures are
 - **Profile:** https://www.linkedin.com/in/bernardjhuang/  
 - **Example session:** https://www.clearscope.io/webinars/whats-going-on-with-seo-with-bernard-huang  
 - **Date collected:** 2026-04-02  
-- **Annotation:** **Product builder** perspective on AI in the content lifecycle—pairs well with agency-operator voices (above) when designing AI-powered SEO content standards.
+- **Annotation:** **Product builder** perspective on AI in the content lifecycle-pairs well with agency-operator voices (above) when designing AI-powered SEO content standards.
 
 **Core Insight:** SEO success comes from aligning content with buyer intent, not just traffic.
 
 
 
 
+comit and push again

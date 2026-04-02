@@ -1,4 +1,4 @@
-## AI-powered SEO content production — research corpus
+## AI-powered SEO content production - research corpus
 
 This repo is a structured **research corpus** on *AI-powered SEO content production*: practitioners who run agencies, products, or large client programs and publish from that experience (not armchair commentary).
 
@@ -8,7 +8,7 @@ This repo is a structured **research corpus** on *AI-powered SEO content product
 |----------|-----------|
 | [`research/sources.md`](research/sources.md) | **Ten experts** with links, collection dates, and short annotations. |
 | [`research/linkedin-posts/`](research/linkedin-posts/) | Captured **LinkedIn posts** (manual export: URL + full text), by author/date. |
-| [`research/youtube-transcripts/`](research/youtube-transcripts/) | **YouTube videos** — per-video `.md` index + **`.txt` transcripts** (Python + [`youtube-transcript-api`](https://pypi.org/project/youtube-transcript-api/)). |
+| [`research/youtube-transcripts/`](research/youtube-transcripts/) | **YouTube videos** - per-video `.md` index + **`.txt` transcripts** (Python + [`youtube-transcript-api`](https://pypi.org/project/youtube-transcript-api/)). |
 | [`research/other/`](research/other/) | **Collection methodology** and rubric notes. |
 
 ### Why these experts
