@@ -2,6 +2,10 @@
 
 This repo is a structured **research corpus** on *AI-powered SEO content production*: practitioners who run agencies, products, or large client programs and publish from that experience (not armchair commentary).
 
+### Playbook
+
+Based on the collected research, I've created a comprehensive [Playbook/SOP](playbook.md) for AI-powered SEO content production. It includes cited recommendations, expert disagreements, rejected ideas, original contributions, weaknesses, and credibility assessments.
+
 ### What was collected
 
 | Location | Contents |
