@@ -138,24 +138,32 @@ Action
 ## Where experts disagree
 
 ### 1. Volume vs. selectivity
-What Nathan Gotch recommends: Create broad topic domination through many supporting assets and AI-assisted draft scale.  
-What Pratik Thakker and Omer Riaz recommend: Focus on higher-intent, higher-value pieces and avoid weak mid-funnel content.  
-Which side I take: Thakker/Riaz. They align with revenue-focused measurement and reduce the risk of producing low-value content that wastes resources.
+What Nathan Gotch recommends: Create broad topic domination through many supporting assets and AI-assisted draft scale (Nathan Gotch, 02.04.2026, https://www.youtube.com/watch?v=9wuHUDm4-WE).
+
+What Pratik Thakker and Omer Riaz recommend: Focus on higher-intent, higher-value pieces and avoid weak mid-funnel content (Pratik Thakker, 01.04.2026, https://www.linkedin.com/... ; Omer Riaz, 01.04.2026, https://lnkd.in/dCFvMYgs).
+
+Which side I take: Thakker/Riaz. I prioritize this approach because revenue-aligned SEO reduces content waste and improves signal quality for both human decision-making and AI citation systems. In practice, selectivity ensures each asset is tied to a measurable business outcome rather than being part of a large but low-impact content volume strategy.
 
 ### 2. Search visibility vs. audience trust
-What Nathan Gotch recommends: Optimize for every search opportunity, including Google’s AI features and YouTube.  
-What Wil Reynolds recommends: Invest first in authentic audience signals and trust, then layer in search optimization.  
-Which side I take: Reynolds. Audience trust is a stronger foundation for lasting signal generation than chasing every search surface.
+What Nathan Gotch recommends: Optimize for every search opportunity, including Google’s AI features, keyword targeting, and YouTube visibility (Nathan Gotch, 02.04.2026, https://www.youtube.com/watch?v=9wuHUDm4-WE).
+
+What Wil Reynolds recommends: Prioritize building audience trust and distribution channels first (social platforms, communities, direct engagement), then layer SEO on top for compounding visibility (Wil Reynolds, 02.04.2026, https://www.youtube.com/watch?v=NCk5sb0bLIo).
+
+Which side I take: Wil Reynolds. I prioritize audience trust because it creates demand signals that persist even when search algorithms or AI answer layers reduce direct click-through traffic. In contrast, optimizing purely for search visibility risks over-dependence on platform rules that are increasingly unstable in AI-mediated discovery systems. Audience trust acts as a multiplier for all downstream SEO and citation performance.
 
 ### 3. AI draft speed vs. authenticity
-What Nathan Gotch recommends: Use AI to draft quickly and then edit.  
-What Wil Reynolds recommends: Avoid templated AI copy that lacks human insight and authenticity.  
-Which side I take: a hybrid. AI can accelerate drafting, but every asset must be anchored in real experience and unique customer context.
+What Nathan Gotch recommends: Use AI to rapidly draft content and then refine it through editing and SEO optimization workflows (Nathan Gotch, 02.04.2026, https://www.youtube.com/watch?v=9wuHUDm4-WE).
+
+What Wil Reynolds recommends: Avoid relying heavily on templated AI-generated content because it often lacks lived experience, differentiation, and trust signals needed for long-term visibility and audience engagement (Wil Reynolds, 02.04.2026, https://www.youtube.com/watch?v=NCk5sb0bLIo).
+
+Which side I take: a hybrid approach. I use AI as a production accelerator for structure, ideation, and first drafts, but enforce a strict human validation layer focused on experience, originality, and contextual relevance. This ensures scalability without losing authenticity, while also preventing the content from blending into generic AI-generated output that fails in both audience trust and AI citation systems.
 
 ### 4. Platform breadth vs. focus
-What Nathan Gotch recommends: Be present across website, YouTube, LinkedIn, and AI search.  
-What Anna York recommends: Fix the core content and its structure before chasing new channels.  
-Which side I take: York. Start with a strong core and then expand deliberately, using distribution only when the content is already proving useful.
+What Nathan Gotch recommends: Build presence across multiple platforms (website, YouTube, LinkedIn, and AI search surfaces) to maximize visibility and capture demand wherever it appears (Nathan Gotch, 02.04.2026, https://www.youtube.com/watch?v=9wuHUDm4-WE).
+
+What Anna York recommends: First establish a strong foundational content system (clear structure, authority signals, and core pages) before expanding into additional distribution channels (Anna York, 01.04.2026, https://www.linkedin.com/posts/anna-york-seo_newjob-activity-7445066066231468032-j3dr).
+
+Which side I take: Anna York. I prioritize building a strong core content foundation before expanding to multiple platforms because distribution amplifies what already exists rather than fixing weak content. Without a strong base, multi-platform expansion leads to diluted messaging and inefficient signal distribution. Once the core system consistently earns clarity, engagement, and citation potential, expansion becomes a compounding force rather than a distraction.
 
 ---
 
