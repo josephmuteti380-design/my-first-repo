@@ -1,10 +1,10 @@
 ﻿# AI-Powered SEO Content Production Playbook
 
 ## Topic
-AI-powered SEO content production for revenue-aligned, citation-driven growth in B2B and service-based markets.
+AI-powered SEO content production for revenue-aligned, citation-driven growth in B2B and service-based markets, based on practitioner insights from SEO operators, agency founders, and generative search researchers.
 
 ## What this SOP is for
-This playbook turns the collected research into a repeatable process for using AI to produce SEO content that: 1) maps to buyer intent, 2) earns citations from AI search surfaces, and 3) avoids volume-first noise.
+This playbook turns the collected research from SEO practitioners (including Nathan Gotch, Wil Reynolds, Pratik Thakker, and others) into a repeatable process for using AI to produce SEO content that: 1) maps to buyer intent, 2) earns citations from AI search surfaces, and 3) avoids volume-first noise.
 
 ## How to use it
 1. Start with buyer intent and revenue outcomes.  
