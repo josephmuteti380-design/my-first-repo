@@ -13,6 +13,7 @@ Experts below **run agencies, products, or large client programs**. Captures are
 - **Role:** Founder-level SEO practitioner; publishes on revenue- and intent-led SEO.  
 - **Platform:** LinkedIn (post captured in repo).  
 - **Link:** https://www.linkedin.com/posts/pratik-thakker_traffic-feels-good-revenue-feels-better-activity-7445039881287868416-DzBz  
+- **Local capture:** `research/linkedin-posts/pratik-thakker-intent-beats-traffic-2026-04-01.md`  
 - **Profile:** https://www.linkedin.com/in/pratik-thakker/  
 - **Date collected:** 2026-04-01  
 - **Annotation:** Strong fit for “AI-powered SEO content” because he frames content around **intent and commercial outcomes** (comparison pages, migration guides, ROI narratives)—the same decisions AI tools should amplify, not replace.
@@ -22,6 +23,7 @@ Experts below **run agencies, products, or large client programs**. Captures are
 - **Role:** SEO / SearchCraft newsletter; emphasizes AI-assisted **decision-making** over raw output volume.  
 - **Platform:** LinkedIn + newsletter (link in captured post).  
 - **Link:** https://lnkd.in/dCFvMYgs (newsletter edition referenced in post)  
+- **Local capture:** `research/linkedin-posts/omer-riaz-ai-seo-better-content-2026.md`  
 - **Profile:** Confirm via the author on the shared post or SearchCraft byline (several unrelated “Omer Riaz” profiles exist on LinkedIn).  
 - **Date collected:** 2026-04-01  
 - **Annotation:** Directly addresses using AI for **topic selection, keyword intelligence, intent mapping, and structure**-core to AI-powered SEO content production.
@@ -31,6 +33,7 @@ Experts below **run agencies, products, or large client programs**. Captures are
 - **Role:** SEO / brand visibility practitioner (GEO, AI citations, structured content).  
 - **Platform:** LinkedIn (post captured in repo).  
 - **Link:** https://www.linkedin.com/posts/anna-york-seo_newjob-activity-7445066066231468032-j3dr  
+- **Local capture:** `research/linkedin-posts/anna-york-2026-04-01.md`  
 - **Profile:** https://www.linkedin.com/in/anna-york-seo/  
 - **Date collected:** 2026-04-01  
 - **Annotation:** Connects **rankings to being cited in AI answers**; stresses clarity and structure-key requirements for content that performs in both classic SERPs and LLM-driven surfaces.
