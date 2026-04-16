@@ -170,21 +170,25 @@ Which side I take: Anna York. I prioritize building a strong core content founda
 ## What I rejected and why
 
 ### 1. Publish dozens of low-value AI articles
-I rejected the spray-and-pray content model because it runs directly counter to Pratik Thakker’s revenue-intent thesis and Anna York’s visibility shift. It produces content that may rank intermittently but does not earn citations or conversions.
+I rejected the spray-and-pray content model because it optimizes for output volume rather than decision impact. In my system, content must map directly to buyer intent and citation potential; therefore, scaling low-value pages would dilute topical authority and reduce the likelihood of being referenced in AI-generated answers. This contradicts the revenue-first framing from Pratik Thakker and the visibility-as-trust model from Anna York.
 
 ### 2. Optimize only for semantic relevance
-I rejected the idea of chasing keyword-similarity signals without unique evidence. Wil Reynolds and Anna York both argue that this produces average answers rather than trusted sources, and it fails in AI citation contexts.
+I rejected the idea of relying purely on keyword similarity and semantic matching without unique evidence or lived experience. While this approach may improve surface-level rankings, it fails under AI citation systems that prioritize clarity, structure, and trust signals. Wil Reynolds and Anna York both highlight that generic optimization leads to interchangeable content, which weakens both audience trust and AI visibility.
 
 ---
 
 ## My original ideas
 
 ### Permission-layered topic authority
-1. Launch 3 core decision-stage pages with buyer-intent focus.  
-2. Only add supporting cluster pages after the core pages show a signal.  
-3. Use native platform distribution as a validation layer, not as the first step.  
+This framework introduces a staged publishing model where content expansion is not pre-planned, but earned through performance signals.
+1. Core validation layer
+Launch 3 high-intent, decision-stage pages focused only on revenue-critical queries. These act as “signal anchors” for the topic.
+2. Expansion gating layer 
+Only create supporting cluster content if core pages demonstrate early signals such as engagement, conversions, or citation potential in AI/search systems.  
+3. Distribution validation layer 
+Use native platforms (LinkedIn, YouTube, newsletters) not as a primary distribution strategy, but as a feedback mechanism to test message clarity and audience resonance before scaling content production.  
 
-Why it could work: It combines Thakker’s revenue focus, Gotch’s cluster discipline, and Reynolds’ audience validation, while avoiding the volume and tool-first traps of generic AI SEO.
+Why it could work: This system prevents premature content scaling by forcing proof of value before expansion. It combines revenue-first prioritization (Thakker), structured topic development (Gotch), and audience validation (Reynolds), but adds a missing constraint layer: **earned expansion instead of planned expansion**.
 
 ---
 
