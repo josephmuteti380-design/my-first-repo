@@ -17,7 +17,7 @@ This playbook turns the collected research into a repeatable process for using A
 ---
 
 ## 1. Start with buyer intent, not traffic
-Recommendation: Prioritize bottom-funnel content that matches commercial intent—product comparisons, migration guides, ROI analysis, and decision-support pages.  
+Recommendation: Prioritize bottom-funnel content that matches commercial intent—product comparisons, migration guides, ROI analysis, and decision-support pages.  (Pratik Thakker, 01.04.2026, https://www.linkedin.com/posts/pratik-thakker_traffic-feels-good-revenue-feels-better-activity-7445039881287868416-DzBz).
 Source: Pratik Thakker, LinkedIn post from 01.04.2026, https://www.linkedin.com/posts/pratik-thakker_traffic-feels-good-revenue-feels-better-activity-7445039881287868416-DzBz  
 Local capture: `research/linkedin-posts/pratik-thakker-intent-beats-traffic-2026-04-01.md`
 
@@ -34,7 +34,7 @@ Action
 ---
 
 ## 2. Use AI for decisions, not just drafting
-Recommendation: Use AI to map topics, classify intent, and structure content before writing.  
+Recommendation: Use AI to map topics, classify intent, and structure content before writing.  (Omer Riaz, 01.04.2026, https://lnkd.in/dCFvMYgs).
 Source: Omer Riaz, LinkedIn post from 01.04.2026, https://lnkd.in/dCFvMYgs  
 Local capture: `research/linkedin-posts/omer-riaz-ai-seo-better-content-2026.md`
 
@@ -51,7 +51,7 @@ Action
 ---
 
 ## 3. Build topic authority through decision-stage clusters
-Recommendation: Start with a website home-base page, then expand to supporting comparison, case-study, and “how to choose” pages across platforms.  
+Recommendation: Start with a website home-base page, then expand to supporting comparison, case-study, and “how to choose” pages across platforms.  (Nathan Gotch, 02.04.2026, https://www.youtube.com/watch?v=9wuHUDm4-WE).
 Source: Nathan Gotch, YouTube video from 02.04.2026, https://www.youtube.com/watch?v=9wuHUDm4-WE  
 Local capture: `research/youtube-transcripts/nathan-gotch-9wuHUDm4-WE-transcript.txt`
 
@@ -68,7 +68,7 @@ Action
 ---
 
 ## 4. Optimize for citations and human trust
-Recommendation: Write content that is easy for AI systems to cite and for people to trust by using clear answers, evidence, and unique experience.  
+Recommendation: Write content that is easy for AI systems to cite and for people to trust by using clear answers, evidence, and unique experience.  https://www.linkedin.com/posts/anna-york-seo_newjob-activity-7445066066231468032-j3dr).
 Source: Anna York, LinkedIn post from 01.04.2026, https://www.linkedin.com/posts/anna-york-seo_newjob-activity-7445066066231468032-j3dr  
 Local capture: `research/linkedin-posts/anna-york-2026-04-01.md`
 
@@ -85,7 +85,7 @@ Action
 ---
 
 ## 5. Distribute through audience signals, not only search
-Recommendation: Publish content where your buyers already engage, then amplify it through native platforms like LinkedIn, YouTube, and newsletters.  
+Recommendation: Publish content where your buyers already engage, then amplify it through native platforms like LinkedIn, YouTube, and newsletters. (Wil Reynolds, 02.04.2026, https://www.youtube.com/watch?v=NCk5sb0bLIo). 
 Source: Wil Reynolds, YouTube video from 02.04.2026, https://www.youtube.com/watch?v=NCk5sb0bLIo  
 Local capture: `research/youtube-transcripts/wil-reynolds-NCk5sb0bLIo-transcript.txt`
 
@@ -102,7 +102,7 @@ Action
 ---
 
 ## 6. Guard quality with E-E-A-T and technical discipline
-Recommendation: Apply a human quality bar, verify facts, and integrate technical SEO systems before scaling.  
+Recommendation: Apply a human quality bar, verify facts, and integrate technical SEO systems before scaling.  (Marie Haynes, 02.04.2026, https://www.linkedin.com/in/marie-haynes/; Michael King, 02.04.2026, https://www.linkedin.com/in/michaelkingphilly/).
 Sources: Marie Haynes, LinkedIn profile from 02.04.2026, https://www.linkedin.com/in/marie-haynes/  
 Source: Michael King, LinkedIn profile from 02.04.2026, https://www.linkedin.com/in/michaelkingphilly/
 
@@ -119,7 +119,7 @@ Action
 ---
 
 ## 7. Keep distribution and tracking aligned
-Recommendation: Use multi-channel distribution and measure both conversions and citation signals.  
+Recommendation: Use multi-channel distribution and measure both conversions and citation signals.  (Aleyda Solís, 02.04.2026, https://www.linkedin.com/in/aleyda/; Lily Ray, 02.04.2026, https://www.linkedin.com/in/lily-ray-44755615/).
 Sources: Aleyda Solís, LinkedIn profile from 02.04.2026, https://www.linkedin.com/in/aleyda/  
 Source: Lily Ray, LinkedIn profile from 02.04.2026, https://www.linkedin.com/in/lily-ray-44755615/
 
