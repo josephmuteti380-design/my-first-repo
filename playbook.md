@@ -181,12 +181,12 @@ I rejected the idea of relying purely on keyword similarity and semantic matchin
 
 ### Permission-layered topic authority
 This framework introduces a staged publishing model where content expansion is not pre-planned, but earned through performance signals.
-1. Core validation layer
-Launch 3 high-intent, decision-stage pages focused only on revenue-critical queries. These act as “signal anchors” for the topic.
-2. Expansion gating layer 
-Only create supporting cluster content if core pages demonstrate early signals such as engagement, conversions, or citation potential in AI/search systems.  
-3. Distribution validation layer 
-Use native platforms (LinkedIn, YouTube, newsletters) not as a primary distribution strategy, but as a feedback mechanism to test message clarity and audience resonance before scaling content production.  
+1. Core validation layer;
+- Launch 3 high-intent, decision-stage pages focused only on revenue-critical queries. These act as “signal anchors” for the topic.
+2. Expansion gating layer;
+- Only create supporting cluster content if core pages demonstrate early signals such as engagement, conversions, or citation potential in AI/search systems.  
+3. Distribution validation layer;
+- Use native platforms (LinkedIn, YouTube, newsletters) not as a primary distribution strategy, but as a feedback mechanism to test message clarity and audience resonance before scaling content production.  
 
 Why it could work: This system prevents premature content scaling by forcing proof of value before expansion. It combines revenue-first prioritization (Thakker), structured topic development (Gotch), and audience validation (Reynolds), but adds a missing constraint layer: **earned expansion instead of planned expansion**.
 
@@ -194,15 +194,22 @@ Why it could work: This system prevents premature content scaling by forcing pro
 
 ## Weaknesses of this playbook
 
-- It assumes access to AI tools, editorial bandwidth, and some measurement infrastructure.  
-- It is strongest for B2B/service and may need adaptation for e-commerce or local businesses.  
-- It does not include a turnkey metric for AI citation tracking, making success partly qualitative.  
-- It relies on current AI/Google behaviour; rapid platform shifts could require a new iteration.
+1. Resource and execution dependency. 
+- This playbook assumes access to AI tools, editorial capacity, and basic analytics infrastructure. Without these, the system collapses into isolated tactics rather than a structured process, reducing its effectiveness in proving or iterating on content performance.e-commerce or local businesses.  
+2. Use-case bias toward B2B/service models   
+- The framework is optimized for decision-heavy, high-consideration content journeys. In e-commerce or low-consideration transactional environments, the staged “validation before scaling” model may slow down content velocity and limit short-term revenue capture.
+3. Lack of precise AI citation measurement 
+- There is currently no standardized or reliable way to measure AI citation frequency across platforms. As a result, one of the core success signals in this system remains partially qualitative, which introduces subjectivity into performance evaluation.
+4. Platform volatility risk
+- The system depends on current behaviors in Google search, AI answer engines, and social distribution platforms. If ranking signals or citation mechanisms shift significantly, parts of the framework may require redesign rather than incremental adjustment.
 
 ---
 
 ## Who I would NOT recommend following and why
 
-- Nathan Gotch: Great for larger teams, but I would not recommend using his volume-first approach as the primary model for smaller teams that need proof-of-value quickly.  
-- Bernard Huang: Useful as a product-builder perspective, but not as a standalone blueprint; his advice can bias teams toward tool workflows rather than buyer intent.  
-- Any voice in the corpus that recommends prioritizing output volume over revenue alignment: that is the weakest fit for this repo’s chosen topic.
+- Nathan Gotch: While highly effective for established agencies and teams with production capacity, his framework assumes the ability to execute large-scale content output before validation. In smaller or early-stage systems, this increases the risk of producing unvalidated content at scale, which can dilute topical authority and delay proof of revenue impact.  
+- Bernard Huang: Valuable as a product and tooling perspective, but not suitable as a standalone strategic framework for content decision-making. His approach can unintentionally shift focus toward optimizing workflows and tools rather than prioritizing buyer intent and content impact, which may lead to over-engineered processes with unclear business outcomes.  
+- Any voice in the corpus that recommends prioritizing output volume over revenue alignment: that is the weakest fit for this repo’s chosen topic.General volume-first SEO perspectives: Any approach that prioritizes output volume over validated intent and revenue alignment introduces a structural risk in AI-driven search environments. These models tend to generate high content density without ensuring citation-worthiness or decision-stage relevance, which weakens both AI visibility and conversion performance.
+
+Why these exclusions matter:
+- In this playbook, the primary goal is not content scale but decision impact and citation reliability. Any framework that prioritizes production over validation conflicts with this core principle.
