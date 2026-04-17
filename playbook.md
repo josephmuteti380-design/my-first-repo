@@ -232,5 +232,3 @@ Source experts and captures used for this playbook:
 - Michael King (LinkedIn profile)
 - Aleyda Solis (LinkedIn profile)
 - Bernard Huang (public thought leadership)
-
-https://github.com/josephmuteti380-design/my-first-repo.git
